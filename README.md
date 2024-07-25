@@ -22,7 +22,7 @@ Passo 3: Clonagem do Repositório
 Clone o Repositório:
 No terminal, navegue até a pasta onde deseja clonar o repositório e execute o seguinte comando:
 ````
-git clone https://github.com/vkThiago/NerdMinerPC.git
+git clone https://github.com/thiagvncs/NerdMinerPC.git
 ````
 
 Passo 4: Execução do Código
